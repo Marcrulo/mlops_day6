@@ -5,3 +5,4 @@ def test_mnist():
     mod = MyAwesomeModel()
     assert mod
     print("lul")
+    print("change!!!")
