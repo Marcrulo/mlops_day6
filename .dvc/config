@@ -1,1 +1,0 @@
-dvc remote add -d storage "gs://le-bucket123/"
