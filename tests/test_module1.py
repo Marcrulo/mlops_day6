@@ -6,4 +6,3 @@ def test_mnist():
     assert mod
     print("lul")
     print("change!!!")
-    print(non_existent_variable)
