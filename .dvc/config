@@ -1,1 +1,1 @@
-dvc remote add -d remote_storage gs://le-bucket123/
+dvc remote add -d remote_storage "gs://le-bucket123/"
