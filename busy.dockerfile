@@ -1,2 +1,2 @@
 FROM busybox
-CMD echo "Howdy cowboy"
+CMD echo "Howdy Partner"
