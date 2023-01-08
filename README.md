@@ -1,4 +1,4 @@
-CookieProject
+CookieProject, more like Poopieproject, amarite?
 ==============================
 
 TestCookiecutter
