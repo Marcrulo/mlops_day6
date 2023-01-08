@@ -1,0 +1,5 @@
+outs:
+- md5: ff5bee455048c70a4170d1a5592c5037.dir
+  size: 327
+  nfiles: 1
+  path: data
